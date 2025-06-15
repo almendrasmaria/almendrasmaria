@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=D0A393&background=FF8DEA00&center=false&vCenter=true&width=435&height=30&lines=Hello+World!;I'm+Software+Developer)](https://git.io/typing-svg)
 
-<!--
-**almendrasmaria/almendrasmaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Argentina | 🛠️ Software Developer | ⚛️ Focused on Frontend 
 
-Here are some ideas to get you started:
+## Acerca de mi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌸 Soy María Almendras (pero pueden decirme Mari) 
+- 📚 Estudiante de Ingeniería en Informática en la Universidad Argentina de la Empresa 
+- 🌱 Estoy aprendiendo más sobre Software Development | Modern Frontend Technologies | Good UI/UX Practices
+
+## Tecnologias y Herramientas 
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,react,tailwind,php,python,mysql,mongodb,git" />
+    </a>
+</p>
